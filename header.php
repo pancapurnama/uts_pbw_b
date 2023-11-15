@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Praktikum PHP 8</title>
+    <title>Melihat KRS Mahasiswa</title>
     <style>
         .menu {
             margin-bottom: 20px;
@@ -19,7 +19,7 @@
     </style>
 </head>
 <body>
-    <h1>Selamat datang di website jadwal transportasi</h1>
+    <h1>Selamat datang di website KRS Mahasiswa</h1>
     
     <div class="menu">
         <a href="login.php">Halaman Login</a>
